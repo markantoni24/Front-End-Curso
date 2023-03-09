@@ -42,5 +42,5 @@ são ramificações / versões paralelas
 
 - main / master (vai para produção, quando o projeto e publicado)
 - develop 
-- dd definition of done: criteiros de aceite
+- dd definition of done: criterios de aceite
 - versionamento 1.0.0
